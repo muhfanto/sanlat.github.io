@@ -264,7 +264,7 @@ $(document).ready(function () {
         if(window.innerWidth > 650) {
             img += 'intro.jpg';
         } else {
-            img += 'intro-big.jpg';
+            img += 'intro.jpg';
         }
 
         $('.tm-intro-img').attr('src', img);
